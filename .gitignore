@@ -1,0 +1,35 @@
+# Visual Studio Code
+.vscode/
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+.nuget/
+nuget.exe
+
+# VS and MSBuild
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Misc
+*.resharper
+*.vspscc
+*.vssscc
+*.bak
+*.log
+*.opendb
+*.sqldb
+*.dbmdl
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
