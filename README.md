@@ -50,5 +50,5 @@ dotnet PirsCli.dll -x <path_to_package_file> <output_directory>
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSES.txt](LICENSES.txt) file for details.
-Original application copyright information can also be found in `LICENSES.txt`.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Original application copyright information can also be found in `LICENSE`.

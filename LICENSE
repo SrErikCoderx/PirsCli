@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Gemini CLI Agent
+Copyright (c) 2026 Hernández Saldaña
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-Original application information (from decompiled wxPirs.exe):
-
-Product: wxPirs
-Company: BeeOne Prod.
-Copyright: Gael360
-Description: PIRS file extractor. Works with PIRS and LIVE files. CON files are also supported.
-Version: 1.1.0.42
